@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Akash Prithibi
+
+This log tracks the cryptographic history and versioning for the song **Akash Prithibi** (akash-prithibi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T05:43:31.461031 | `v1` | `9f9a55135febfe7c5f10115485b41004380dfe64608d99c1d13a61ca73ae9b28` | `f6eaf6ef53fd81d84c730d98fc22f635b1f26e5d8f5a508651c9806a2b11300c` | `2026-05-12_akash-prithibi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

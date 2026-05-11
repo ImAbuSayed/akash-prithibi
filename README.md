@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/akash-prithibi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Akash Prithibi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/akash-prithibi/) |
+| **Get License** | [Commercial Licensing for Akash Prithibi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/akash-prithibi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9f9a55135febfe7c5f10115485b41004380dfe64608d99c1d13a61ca73ae9b28` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
